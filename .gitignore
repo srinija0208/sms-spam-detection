@@ -1,0 +1,4 @@
+venv
+env
+tfidf_vectorizer.pkl
+mnb_model.pkl
